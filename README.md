@@ -1,1 +1,1 @@
-# agentic-ai-threat-intelligence-analytics
+# Agentic AI Threat Intelligence: Incident Analytics & Risk Prioritization
